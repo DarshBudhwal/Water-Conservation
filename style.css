@@ -1,0 +1,159 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+p {
+	font-size: 30px;
+	font-family: 'Open Sans', serif;
+	padding: 0px 80px 0px 80px;
+}
+
+hr{
+    border: solid #8b0000 1px;
+    border-bottom: none;
+    width: 4%;
+    margin-top: 10px;
+}
+
+footer {
+	color: #8f8f8f;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+a{
+   color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+   margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+   color: #EAF6F6;
+   text-decoration: underline;
+}
+
+
+.top-container {
+   padding-top: 100px;
+}
+
+.topnav {
+  background-color: transparent;
+}
+
+.topnav a {
+  float: right;
+   /*color: transparent;*/
+   text-align: center;
+  padding: 14px 16px;
+   text-decoration: none;
+  font-size: 17px;
+}
+
+
+.topnav a:hover {
+   background-color:transparent;
+  color: black;
+}
+
+
+.topnav a.active {
+    color: white;
+}
+
+.container_top{
+    display: inline-block;
+    width: 30%;
+    max-width: 30%;
+    top: -100px;
+    float: left;
+    position: relative;
+    border-right: 38px solid #ffffff00;
+    border-top: 70px solid #92C938;
+    border-top: 70px solid rgba(131,202,19,1);
+}
+
+
+.banner{
+   background-image: url(fan2.jfif);
+    height: 615px;
+    background-size: 1690px;
+   background-repeat: no-repeat;
+}
+
+.main_heading {
+	padding: 20px 20px 0px 0px;
+	font-family: 'Sacramento', cursive;
+	font-size: 50px;
+}
+
+.myimg7{
+    float: left;
+     width: 611px;
+    border-radius: 40px;
+     margin-left: 10px;
+   }
+
+.myimg6{
+      float: right;
+    width: 711px;
+    border-radius:40px; 
+     margin-right: 5px
+}
+
+.cs{
+   font-size: 40px;
+   font-family: 'Sacramento', cursive;
+   color: #3282b8;
+   text-align: left;
+   padding: 0px 25px 0px 5px;
+}
+
+.cs2{
+   font-size: 40px;
+   font-family: 'Sacramento', cursive;
+   color: #3282b8;
+   text-align: right;
+   padding: 0px 30px 0px 85px;
+}
+
+.button-small{
+    background-color: rgba(108,211,29,0.8);
+     border-radius: unset;
+    padding: 15px 30px;
+    font-weight: 700;
+     padding: 11px 42px;
+    padding: 1rem 2rem 1.07143rem 2rem;
+    font-size: .92857rem;
+}
+
+.check3{
+    color: #930e0e;
+     position: absolute;
+    bottom: -4999px;
+     left: 690px;
+}
+
+.check{
+     position: absolute;
+      bottom: -4812px;
+    left: 520px;
+   color: #930e0e;
+}
+
